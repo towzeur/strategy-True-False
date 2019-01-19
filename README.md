@@ -1,5 +1,7 @@
 # strategy-True-False
 
+strategy-True-False/statQCM2019CSsysElec.png
+      
 
 Strategie : répondre aux questions avec les p précalculés
 note : 4.46 / 20
