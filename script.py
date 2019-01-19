@@ -27,10 +27,10 @@ gs = gridspec.GridSpec(ncols, 2)
 plt.subplot(gs[:, 0])
 plt.imshow(result, cmap=cm1)#plt.cm.gray)
 plt.title("total = {} | True={} ({}%)/ False={} ({}%)".format(result.size, 
-															  result.sum(), 
-															  100*result.sum()/result.size,
-															  result.size-result.sum(),
-															  100*(result.size-result.sum())/result.size))
+							      result.sum(), 
+							      100*result.sum()/result.size,
+							      result.size-result.sum(),
+							      100*(result.size-result.sum())/result.size))
 
 for l in range(ncols):
 	plt.subplot(gs[l, 1])
