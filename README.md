@@ -1,6 +1,7 @@
 # strategy-True-False
 
-![alt text](https://github.com/towzeur/strategy-True-False/statQCM2019CSsysElec.png)
+![GitHub Logo](statQCM2019CSsysElec.png)
+Format: ![Alt Text](url)
 
 Strategie : répondre aux questions avec les p précalculés
 note : 4.46 / 20
